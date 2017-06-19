@@ -1,0 +1,2 @@
+# FLCoin
+Fathomless Cryptocurrency Coin
